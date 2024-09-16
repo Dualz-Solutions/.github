@@ -3,6 +3,8 @@
 Welcome to our GitHub space! We're excited to have you here as part of our community. Whether you're a seasoned developer or just getting started, there's always room for everyone to contribute, learn, and grow together.
 
 Dualz Solutions is a young company founded by senior software engineers, each having over 25 years of experience in software architecture, design and engineering, with main expertise in the domain of digital video and linear broadcast. Dualz has developed multiple software solutions in the digital video area, our own product folio as well as in outsourcing projects for our customers. 
+Our product web site: https://dualz.com
+
 
 ### Contribution Guidelines
 Want to get involved? Awesome! We welcome contributions of all sizes—whether it's fixing a bug, suggesting a new feature, or improving documentation. Here's how you can get started:
